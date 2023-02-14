@@ -35,3 +35,10 @@
 - Filter year: 2014, market: US
     ![image](https://user-images.githubusercontent.com/103464406/218608118-393e40ea-9f77-46f2-9826-82f7be538d1d.png)
 
+### Shipping Analysis Dashboard:
+- 53% of the orders have Standard shipping mode and lowest preferred is same day shipping.
+- 41% of Orders with critical order priority have been ordered by firstclass ship mode.
+- 100 % of the orders with low priority have been ordered through standard class.
+- APAC markets have highest shipping cost, followed by EU and US.
+   ![image](https://user-images.githubusercontent.com/103464406/218608777-892f74b8-ee20-4c22-8c2f-953638930e54.png)
+
