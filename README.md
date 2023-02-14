@@ -30,7 +30,7 @@
 ### Product Analysis Dashboard:
 - This dashboard dive deep into product categories, quantity ordered, product- subcategory
 -  Highest amount of office supplies have been ordered in terms of quantity.
--  Tables have been sold at an average discount of 28% 
+-  Tables have been sold at an average discount of 28% in 2014
    ![image](https://user-images.githubusercontent.com/103464406/218607609-fcf817e6-17a1-4b03-af50-00bbe806ad79.png)
 - Filter year: 2014, market: US
     ![image](https://user-images.githubusercontent.com/103464406/218608118-393e40ea-9f77-46f2-9826-82f7be538d1d.png)
