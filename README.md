@@ -10,8 +10,7 @@
 - Microsoft Power BI
 
 ## Data:
-- Data Source : Superstore dataset from kaggle
-    https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
+- Data Source : Superstore dataset from kaggle https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
 - The sales is between the period of 2011 to 2014
    ![image](https://user-images.githubusercontent.com/103464406/218605670-7fe2f56e-7cc7-433e-9a09-fd0b655195aa.png)
 
@@ -27,4 +26,12 @@
 - Filter for year 2014, category: technology, Order Priority: Medium
     !![image](https://user-images.githubusercontent.com/103464406/218607224-3a1bf219-c16f-44cb-bb8e-4e7b0ee22838.png)
 
+
+### Product Analysis Dashboard:
+- This dashboard dive deep into product categories, quantity ordered, product- subcategory
+-  Highest amount of office supplies have been ordered in terms of quantity.
+-  Tables have been sold at an average discount of 28% 
+   ![image](https://user-images.githubusercontent.com/103464406/218607609-fcf817e6-17a1-4b03-af50-00bbe806ad79.png)
+- Filter year: 2014, market: US
+    ![image](https://user-images.githubusercontent.com/103464406/218608118-393e40ea-9f77-46f2-9826-82f7be538d1d.png)
 
