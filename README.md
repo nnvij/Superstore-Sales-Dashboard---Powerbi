@@ -24,4 +24,6 @@
 - 46% of profit came from product category technology.
 - Year 2014 March and April has seen high sales revenue and December being the holiday Season has the lowest revenue sales.
     ![image](https://user-images.githubusercontent.com/103464406/218605834-500b9b47-8873-4b4a-94ae-ed86486e3194.png)
-    ![image](https://user-images.githubusercontent.com/103464406/218606918-bba87b5f-2bfc-4ea3-8efc-bb4547c2ed3f.png)
+- Filter for year 2014
+    ![image](https://user-images.githubusercontent.com/103464406/218606984-6f24eac4-f3bb-4773-9910-7abcef772bc7.png)
+
