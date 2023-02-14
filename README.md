@@ -19,8 +19,9 @@
 
 ### Sales Analysis Dashboard:
 - Sales department can analyze sales and profit through this dashboard. Filter through years and quarterly sales.
-- The company has made Total Sales is 3 million and 400.9K between 2011- 2014.
+- The company has made a Total Sales of 3 million and Total Profit of 400.9K between 2011- 2014.
 - 1 million worth of sales and 119.11K profit was made in 2014.
 - 46% of profit came from product category technology.
-- March and April has seen highest sales and December being the holiday Season has the lowest revenue sales.
+- Year 2014 March and April has seen high sales revenue and December being the holiday Season has the lowest revenue sales.
     ![image](https://user-images.githubusercontent.com/103464406/218605834-500b9b47-8873-4b4a-94ae-ed86486e3194.png)
+    ![image](https://user-images.githubusercontent.com/103464406/218606918-bba87b5f-2bfc-4ea3-8efc-bb4547c2ed3f.png)
