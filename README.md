@@ -12,4 +12,15 @@
 ## Data:
 - Data Source : Superstore dataset from kaggle
     https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
-![image](https://user-images.githubusercontent.com/103464406/218605502-9ac9d899-f3a9-4ede-a099-9ccb599b5e3f.png)
+- The sales is between the period of 2011 to 2014
+   ![image](https://user-images.githubusercontent.com/103464406/218605670-7fe2f56e-7cc7-433e-9a09-fd0b655195aa.png)
+
+## Dashboards:
+
+### Sales Analysis Dashboard:
+- Sales department can analyze sales and profit through this dashboard. Filter through years and quarterly sales.
+- The company has made Total Sales is 3 million and 400.9K between 2011- 2014.
+- 1 million worth of sales and 119.11K profit was made in 2014.
+- 46% of profit came from product category technology.
+- March and April has seen highest sales and December being the holiday Season has the lowest revenue sales.
+    ![image](https://user-images.githubusercontent.com/103464406/218605834-500b9b47-8873-4b4a-94ae-ed86486e3194.png)
